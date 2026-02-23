@@ -57,14 +57,14 @@ Passion: Building scalable & clean architectures
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SoLuTiOnExE&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
+
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212750223-3e64f0b5-1b3e-4b12-93f2-32d3f7f7e2e6.gif" width="100%">
 
 ## 💼 What I Build
 
-<p align="center">
-  
+<p align="center"> 
 <table>
 <tr>
 <td width="50%" align="center">
@@ -106,8 +106,7 @@ Modern responsive websites for brands & professionals.
 
 </td>
 </tr>
-</table>
-
+</table> 
 </p>
 
 ---
