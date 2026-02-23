@@ -57,101 +57,75 @@ Passion: Building scalable & clean architectures
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SoLuTiOnExE&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
-
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212750223-3e64f0b5-1b3e-4b12-93f2-32d3f7f7e2e6.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=2" width="100%"/>
 
-## 💼 What I Build
-
-<p align="center"> 
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 🌐 Web Applications  
-Scalable full-stack systems built with clean architecture.
-
-</td>
-
-<td width="50%" align="center">
-
-### 💬 Real-Time Systems  
-Laravel-powered chat & dynamic applications.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-### 🛠 Service Platforms  
-Structured booking & workflow systems.
-
-</td>
-
-<td width="50%" align="center">
-
-### 📊 Result Systems  
-Academic & data-driven management systems.
-
-</td>
-</tr>
-
-<tr>
-<td width="100%" align="center">
-
-### 🚀 Business & Portfolio Sites  
-Modern responsive websites for brands & professionals.
-
-</td>
-</tr>
-</table> 
-</p>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212750239-2bb1f17d-8f68-47e6-92ef-9f66fcb14f10.gif" width="100%">
-
-## 👨‍🏫 Teaching & Mentorship
+# 💼 What I Build
 
 <p align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 🎨 Frontend Development  
-HTML • CSS • JavaScript • UI Principles  
-
-</td>
-
-<td width="50%" align="center">
-
-### ⚙ Backend Engineering  
-Laravel • APIs • Authentication • System Logic  
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-### 🗄 Database Architecture  
-Relational design & optimization.
-
-</td>
-
-<td width="50%" align="center">
-
-### 🧠 Project-Based Learning  
-Build real systems, not just tutorials.
-
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=laravel,react,nextjs,vue,mysql" />
 
 </p>
+
+### ⚡ Full-Stack Systems
+> Scalable, secure, performance-focused applications built with clean backend architecture.
+
+---
+
+### 💬 Real-Time Applications
+> Chat systems, dynamic dashboards, live features powered by Laravel & modern JS frameworks.
+
+---
+
+### 🛠 Structured Service Platforms
+> Booking systems, workflow automation, role-based logic & operational dashboards.
+
+---
+
+### 📊 Data & Result Management Systems
+> Academic platforms, computed grading systems, exportable reports, analytics-ready.
+
+---
+
+### 🚀 Business & Portfolio Websites
+> Fast, responsive, SEO-ready web experiences for brands & professionals.
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,50:302b63,100:0f0c29&height=2" width="100%"/>
+
+# 👨‍🏫 Teaching & Mentorship
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Build+Real+Projects;Understand+Architecture;Write+Clean+Code;Think+Like+an+Engineer" />
+</p>
+
+---
+
+### 🎨 Frontend Engineering
+HTML • CSS • JavaScript • UI Structure • Modern Framework Thinking
+
+---
+
+### ⚙ Backend Architecture
+Laravel • Authentication • APIs • System Design • Role-Based Logic
+
+---
+
+### 🗄 Database & Optimization
+Relational modeling • Performance tuning • Clean data structures
+
+---
+
+### 🧠 Project-Based Learning
+> No copy-paste tutorials.  
+> We build production-level systems from scratch.
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
 
 ---
 
