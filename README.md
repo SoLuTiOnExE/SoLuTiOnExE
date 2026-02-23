@@ -57,16 +57,18 @@ Passion: Building scalable & clean architectures
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SoLuTiOnExE&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
-
 ---
 
 ## 💼 What I Build
+
+<p align="center">
 
 ✨ Full-stack Web Applications  
 ✨ Real-time Chat Systems (Laravel)  
 ✨ Service Booking Platforms  
 ✨ Result Management Systems  
 ✨ Business & Portfolio Websites  
+</p>
 
 ---
 
