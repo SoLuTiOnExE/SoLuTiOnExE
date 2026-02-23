@@ -31,11 +31,11 @@ Passion: Building scalable & clean architectures
 
 ---
 
-## 📊 GitHub Analytics
+## ⚡ Developer Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SoLuTiOnExE&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoLuTiOnExE&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
