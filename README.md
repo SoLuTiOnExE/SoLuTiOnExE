@@ -46,12 +46,12 @@ Passion: Building scalable & clean architectures
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoLuTiOnExE&theme=tokyo-night&hide_border=true" />
 </p>
 
----
+--- 
 
-## 🐍 Contribution Snake
+## 🔥 Coding Streak
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SoLuTiOnExE/SoLuTiOnExE/output/github-contribution-grid-snake.svg" />
+  <img src="https://streak-stats.demolab.com?user=SoLuTiOnExE&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 ---
