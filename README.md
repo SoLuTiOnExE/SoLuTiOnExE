@@ -1,99 +1,112 @@
-# 👋 Hi, I'm Fasanya Ayomide (Solution)
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Fasanya%20Ayomide%20(Solution)&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-### 💻 Software Engineer | Technical Support Specialist | Educator  
-
-I build scalable web applications, solve real-world technical problems, and mentor aspiring developers.  
-My core focus is backend systems with **Laravel**, modern frontend frameworks, and practical IT solutions.
+<!-- TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Laravel+Backend+Specialist;Fullstack+Web+Developer;Technical+Support+Expert;Mentor+%26+Problem+Solver" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔧 Backend-focused developer with strong Laravel expertise  
-- ⚡ Experienced in building real-time systems (chat apps, service platforms)  
-- 🎯 Passionate about clean architecture and performance optimization  
-- 👨‍🏫 Frontend & Backend instructor (Web Fundamentals → Advanced Concepts)  
-- 🛠 Technical support specialist with hands-on troubleshooting experience  
+```yaml
+Name: Fasanya Ayomide (Solution)
+Role: Software Engineer & Technical Support Specialist
+Focus: Backend Systems, Real-time Applications
+Passion: Building scalable & clean architectures
+```
 
 ---
 
-## 🧠 Tech Stack
+## 🛠 Tech Arsenal
 
-### 💻 Backend
-- **PHP (Laravel)**
-- RESTful API Development
-- Authentication & Role-Based Systems
-- Excel Imports/Exports (maatwebsite/excel)
-- PDF Generation (DomPDF)
+<p align="center">
 
-### 🌐 Frontend
-- **JavaScript**
-- **React.js**
-- **Next.js**
-- **Vue.js**
-- HTML5, CSS3, Bootstrap
+<img src="https://skillicons.dev/icons?i=php,laravel,js,react,nextjs,vue,mysql,git,linux,bootstrap" />
 
-### 🗄 Database
-- MySQL
-- Query Optimization
-- Database Design & Relationships
-
-### 🛠 Tools & Systems
-- Kali Linux (Security & Auditing)
-- Git & GitHub
-- Advanced Microsoft Excel (Automation & Analysis)
-- Graphic Design Tools
+</p>
 
 ---
 
-## 📌 What I Build
+## 📊 GitHub Analytics
 
-- 🔹 Full-stack Web Applications  
-- 🔹 Real-Time Chat Systems (Laravel-based)  
-- 🔹 Service Booking Platforms  
-- 🔹 Result Management Systems  
-- 🔹 Business & Portfolio Websites  
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SoLuTiOnExE&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoLuTiOnExE&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoLuTiOnExE&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SoLuTiOnExE/SoLuTiOnExE/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 💼 What I Build
+
+✨ Full-stack Web Applications  
+✨ Real-time Chat Systems (Laravel)  
+✨ Service Booking Platforms  
+✨ Result Management Systems  
+✨ Business & Portfolio Websites  
 
 ---
 
 ## 👨‍🏫 Teaching & Mentorship
 
-I help beginners and intermediate developers understand:
+I train beginners & intermediate developers in:
 
-- Frontend Development (HTML, CSS, JavaScript)
+- Frontend Development
 - Backend Development with Laravel
-- Database Design & System Architecture
+- Database Architecture
 - Practical Project-Based Learning
-
-I believe in **learning by building**.
 
 ---
 
 ## 🌐 Live Portfolio
 
-🔗 **Portfolio:**  
-https://fasanyaayomide2.github.io/My-Portfolio/
+<p align="center">
+  <a href="https://fasanyaayomide2.github.io/My-Portfolio/">
+    <img src="https://img.shields.io/badge/View-Portfolio-00c9ff?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: fasanyaayomide2019@gmail.com  
-- ▶️ YouTube: http://www.youtube.com/@FasanyaAyomide2  
-- 🎵 TikTok: http://www.tiktok.com/@nobody.nobody_01  
-- 📘 Facebook: http://www.facebook.com/@FasanyaAyomide2  
+<p align="center">
+  <a href="mailto:fasanyaayomide2019@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="http://www.youtube.com/@FasanyaAyomide2"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="http://www.facebook.com/@FasanyaAyomide2"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</p>
 
 ---
 
-## 📊 GitHub Badges
+## 💡 Philosophy
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
-![Focus](https://img.shields.io/badge/focus-Fullstack%20Development-black)
-![Laravel](https://img.shields.io/badge/framework-Laravel-red)
+<p align="center">
+  
+> ⚡ "Every problem has a solution — you just need the right system."
+
+</p>
 
 ---
 
-# 💡 Philosophy
-
-> "Every problem has a solution — you just need the right system."
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
