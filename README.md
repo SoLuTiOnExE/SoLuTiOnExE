@@ -1,63 +1,78 @@
-# 💻 Fasanya Ayomide (Solution)
 
-### 👋 Welcome to my GitHub!
+```markdown
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=50&lines=Hey+%F0%9F%91%8B%2C+I'm+Fasanya+Ayomide;Software+Engineer+%7C+Tech+Support+%7C+Mentor" alt="Typing SVG" />
+</div>
 
-I am a **software engineer** and **technical support specialist** with a diverse set of skills spanning various programming languages, frameworks, and tools. I enjoy working on complex projects and sharing my knowledge with others.
-
----
-
-## 🌟 Skills and Expertise
-
-### **🖥️ Programming Languages & Frameworks**
-- **PHP (Laravel)**: Backend development and API creation.
-- **JavaScript (React, Next.js, Vue.js)**: Frontend development and building dynamic UIs.
-- **SQL**: Database management and optimization.
-
-### **🔒 Operating Systems & Tools**
-- **Kali Linux**: Security auditing and penetration testing.
-- **Excel**: Data analysis and automation with advanced functions.
-- **Document Editing**: Proficient in typing and editing documents with a focus on accuracy and speed.
-
-### **🎨 Graphic Design**
-- Experience in creating visually appealing designs using various graphic tools.
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://fasanyaayomide2.github.io/My-Portfolio/)
+  [![Gmail](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fasanyaayomide2019@gmail.com)
+  
+</div>
 
 ---
 
-## 🚀 Projects & Contributions
-I build a variety of applications, focusing on:
-- **Web Development**: Creating responsive, user-friendly websites and interfaces.
-- **Chat Applications**: Real-time messaging systems with Laravel.
-- **Technical Support**: Offering troubleshooting and support for IT-related challenges.
+### 🧑‍💻 About Me
+
+I am a **Software Engineer** and **Technical Support Specialist** with a passion for building robust web applications and solving complex IT challenges. I bridge the gap between elegant front-end interfaces and powerful back-end logic. When I'm not coding, I'm teaching others how to do the same.
 
 ---
 
-## 📚 Teaching & Mentorship
-I have a passion for teaching and mentoring. I help beginners learn:
-- **Frontend & Backend Development**: Building modern web applications from scratch.
-- **Web Fundamentals**: Covering the basics of web development, including HTML, CSS, and JavaScript.
+### 🛠️ Tech Stack & Tools
+
+#### **Languages & Frameworks**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,nextjs,vue,html,css,mysql&perline=7" />
+</p>
+
+#### **Tools, OS & Design**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kali,linux,vscode,git,excel,ps,figma&perline=7" />
+</p>
 
 ---
 
-## 📈 How I Work
-- **Continuous Learning**: Always staying updated with the latest tech trends.
-- **Collaboration**: I believe in teamwork and knowledge-sharing.
-- **Problem-Solving**: I enjoy solving complex challenges.
+### 🚀 What I Do
+
+| 💻 Web Development | 🐛 Technical Support | 🎨 Graphic Design |
+| :---: | :---: | :---: |
+| Building responsive, user-friendly websites and interfaces using modern frameworks. | Troubleshooting, security auditing (Kali Linux), and IT infrastructure support. | Creating visually appealing designs and editing documents with precision. |
 
 ---
 
-## 🌐 **Live Portfolio**  
+### 📚 Teaching & Mentorship
 
-Check out the live version of my portfolio: [Fasanya Ayomide Joshua (solution) Portfolio](https://fasanyaayomide2.github.io/My-Portfolio/)  
+I believe in **learning by doing**. I mentor beginners and aspiring developers in:
+- **Full-Stack Development**: From database design to deployment.
+- **Web Fundamentals**: Mastering HTML, CSS, and JavaScript logic.
+- **Career Guidance**: How to navigate the tech industry as a junior dev.
 
 ---
 
-### 📞 Contact
-- Email: [Email](fasanyaayomide2019@gmail.com).
-- Youtube: [Youtube](http://www.youtube.com/@FasanyaAyomide2).
-- TikTok: [TikTok](http://www.tiktok.com/@nobody.nobody_01).
-- Facebook: [Facebook](http://www.facebook.com/@FasanyaAyomide2).
+### 🌐 Connect With Me
 
+<p align="center">
+  <a href="http://www.youtube.com/@FasanyaAyomide2">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="http://www.tiktok.com/@nobody.nobody_01">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
+  <a href="http://www.facebook.com/@FasanyaAyomide2">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
-![Contributors](https://img.shields.io/badge/contributors-5-orange)
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FasanyaAyomide2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=FasanyaAyomide2&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+```
