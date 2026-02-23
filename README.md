@@ -59,27 +59,100 @@ Passion: Building scalable & clean architectures
 </p>
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212750223-3e64f0b5-1b3e-4b12-93f2-32d3f7f7e2e6.gif" width="100%">
+
 ## 💼 What I Build
 
 <p align="center">
+  
+<table>
+<tr>
+<td width="50%" align="center">
 
-✨ Full-stack Web Applications  
-✨ Real-time Chat Systems (Laravel)  
-✨ Service Booking Platforms  
-✨ Result Management Systems  
-✨ Business & Portfolio Websites  
+### 🌐 Web Applications  
+Scalable full-stack systems built with clean architecture.
+
+</td>
+
+<td width="50%" align="center">
+
+### 💬 Real-Time Systems  
+Laravel-powered chat & dynamic applications.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### 🛠 Service Platforms  
+Structured booking & workflow systems.
+
+</td>
+
+<td width="50%" align="center">
+
+### 📊 Result Systems  
+Academic & data-driven management systems.
+
+</td>
+</tr>
+
+<tr>
+<td width="100%" align="center">
+
+### 🚀 Business & Portfolio Sites  
+Modern responsive websites for brands & professionals.
+
+</td>
+</tr>
+</table>
+
 </p>
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212750239-2bb1f17d-8f68-47e6-92ef-9f66fcb14f10.gif" width="100%">
+
 ## 👨‍🏫 Teaching & Mentorship
 
-I train beginners & intermediate developers in:
+<p align="center">
 
-- Frontend Development
-- Backend Development with Laravel
-- Database Architecture
-- Practical Project-Based Learning
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🎨 Frontend Development  
+HTML • CSS • JavaScript • UI Principles  
+
+</td>
+
+<td width="50%" align="center">
+
+### ⚙ Backend Engineering  
+Laravel • APIs • Authentication • System Logic  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### 🗄 Database Architecture  
+Relational design & optimization.
+
+</td>
+
+<td width="50%" align="center">
+
+### 🧠 Project-Based Learning  
+Build real systems, not just tutorials.
+
+</td>
+</tr>
+</table>
+
+</p>
 
 ---
 
