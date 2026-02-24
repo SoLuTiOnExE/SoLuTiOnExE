@@ -91,15 +91,7 @@ Passion: Building scalable & clean architectures
 
 ### 🚀 Business & Portfolio Websites
 > Fast, responsive, SEO-ready web experiences for brands & professionals.
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,50:302b63,100:0f0c29&height=2" width="100%"/>
-
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Build+Real+Projects;Understand+Architecture;Write+Clean+Code;Think+Like+an+Engineer" />
-</p>
+ 
 
 ---
 
@@ -121,10 +113,6 @@ Relational modeling • Performance tuning • Clean data structures
 ### 🧠 Project-Based Learning
 > No copy-paste tutorials.  
 > We build production-level systems from scratch.
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
 
 ---
 
@@ -155,9 +143,16 @@ Relational modeling • Performance tuning • Clean data structures
 > ⚡ "Every problem has a solution — you just need the right system."
 
 </p>
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,50:302b63,100:0f0c29&height=2" width="100%"/>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Build+Real+Projects;Understand+Architecture;Write+Clean+Code;Think+Like+an+Engineer" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
 </p>
