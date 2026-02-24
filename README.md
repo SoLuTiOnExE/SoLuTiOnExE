@@ -96,7 +96,6 @@ Passion: Building scalable & clean architectures
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,50:302b63,100:0f0c29&height=2" width="100%"/>
 
-# 👨‍🏫 Teaching & Mentorship
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Build+Real+Projects;Understand+Architecture;Write+Clean+Code;Think+Like+an+Engineer" />
