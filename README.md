@@ -34,12 +34,12 @@ Passion: Building scalable & clean architectures
 ## 🧩 Core Technologies
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoLuTiOnExE&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drsolutiontech&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SoLuTiOnExE&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SoLuTiOnExE&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drsolutiontech&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drsolutiontech&theme=tokyonight" />
 </p>
 
 ---
@@ -47,7 +47,7 @@ Passion: Building scalable & clean architectures
 ## 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoLuTiOnExE&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=drsolutiontech&theme=tokyo-night&hide_border=true" />
 </p>
 
 --- 
@@ -55,7 +55,7 @@ Passion: Building scalable & clean architectures
 ## 🔥 Coding Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SoLuTiOnExE&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=drsolutiontech&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
  
 ---
