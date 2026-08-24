@@ -54,9 +54,7 @@ Passion: Building scalable & clean architectures
 
 ## 🔥 Coding Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=drsolutiontech&theme=tokyonight"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com/?user=drsolutiontech&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
  
 ---
