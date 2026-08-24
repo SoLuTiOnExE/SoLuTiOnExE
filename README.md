@@ -53,9 +53,10 @@ Passion: Building scalable & clean architectures
 --- 
 
 ## 🔥 Coding Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=drsolutiontech&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://streak-stats.demolab.com/?user=drsolutiontech&theme=tokyonight"
+    alt="GitHub Streak"
+  />
 </p>
  
 ---
@@ -68,7 +69,7 @@ Relational modeling • Performance tuning • Clean data structures
 ## 🌐 Live Portfolio
 
 <p align="center">
-  <a href="https://fasanyaayomide2.github.io/My-Portfolio/">
+  <a href="https://drsolutiontech.github.io/My-Portfolio/">
     <img src="https://img.shields.io/badge/View-Portfolio-00c9ff?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
