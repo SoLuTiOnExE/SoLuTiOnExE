@@ -42,14 +42,6 @@ Passion: Building scalable & clean architectures
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drsolutiontech&theme=tokyonight" />
 </p>
 
----
-
-## 🔥 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=drsolutiontech&theme=tokyo-night&hide_border=true" />
-</p>
-
 --- 
 
 ## 🔥 Coding Streak
